@@ -1,0 +1,6 @@
+Time resolution is 1 ps
+Period register:          x
+Pulse register:          x
+Enable register:          1
+Observing PWM output...
+$stop called at time : 2215 ns : File "D:/PWM_APB/PWM_APB.srcs/sim_1/new/testbench.sv" Line 118
